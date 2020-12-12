@@ -52,3 +52,7 @@ Guide: https://quarkus.io/guides/rest-json
 
 # Including integration to Openshift
 https://quarkus.io/guides/deploying-to-openshift
+
+to build a new image
+``shell script 
+./mvnw clean package -Dquarkus.kubernetes.deploy=true 
