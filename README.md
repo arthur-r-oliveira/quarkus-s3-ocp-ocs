@@ -49,3 +49,6 @@ If you want to learn more about building native executables, please consult http
 <p><b>Quarked!</b></p>
 
 Guide: https://quarkus.io/guides/rest-json
+
+# Including integration to Openshift
+https://quarkus.io/guides/deploying-to-openshift
